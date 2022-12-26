@@ -21,8 +21,6 @@ export function Header() {
                     </Dialog.Content>
                 </Dialog.Portal>
                 </Dialog.Root>
-
-               
             </HeaderContent>
         </HeaderContainer>
     )
