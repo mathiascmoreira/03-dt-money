@@ -1,20 +1,44 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2022-12-26T19:25:37.216Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburger",
-            "type": "outcome",
-            "category": "Alimentacao",
-            "price": 50,
-            "createdAt": "2022-12-26T19:10:37.216Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-12-26T19:25:37.216Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentacao",
+      "price": 50,
+      "createdAt": "2022-12-26T19:10:37.216Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 12000,
+      "category": "Job",
+      "type": "income",
+      "createdAt": "2022-12-27T23:05:06.434Z",
+      "id": 3
+    },
+    {
+      "description": "Desenvolvimento de Ecommerce",
+      "price": 5000,
+      "category": "Job",
+      "type": "income",
+      "createdAt": "2022-12-27T23:05:43.816Z",
+      "id": 4
+    },
+    {
+      "description": "Bolo",
+      "price": 20,
+      "category": "Comida",
+      "type": "outcome",
+      "createdAt": "2022-12-27T23:19:10.624Z",
+      "id": 5
+    }
+  ]
 }
